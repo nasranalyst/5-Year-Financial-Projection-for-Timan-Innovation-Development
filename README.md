@@ -1,1 +1,2 @@
 # 5-Year-Financial-Projection-for-Timan-Innovation-Development
+I structured raw data in Excel by cleaning, organizing, and transforming it to enhance analysis. I also developed interactive dashboards in Power BI to identify key trends and patterns. Additionally, I provided actionable insights to support data-driven decision-making, contributing to improved business efficiency and strategic planning.
